@@ -1,5 +1,5 @@
 # web_scrapping_beautifulsoup
-I use the Beautiful Soup library to scrap the web for newheadlines then perform sentiment analysis on the data.
+Using the Beautiful Soup library to scrap the web for newheadlines then perform sentiment analysis on the data.
 
 The data (news headlines) will be downloaded from 3 websites: Business Daily, The Standard, Nation Africa.
 
